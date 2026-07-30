@@ -289,6 +289,29 @@ Sustained passion combined with sustained effort predicts success far better tha
 
 <br/>
 
+## 🏙️ 3D Contribution Skyline
+
+<div align="center">
+
+<img src="https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=Khushika&theme=dark&stats=true" width="100%"/>
+
+</div>
+
+> Your contribution graph rendered as a living isometric city — taller buildings mean bigger commit days. No GitHub Action needed, this is a live API render on a single `<img>` tag. First load can be slow (free-tier server spin-up), then it's cached.
+
+<br/>
+
+## 🗓️ 3D Contribution Calendar (optional, richer alternative)
+
+If you want an even more detailed 3D view — an actual calendar grid rendered as 3D bars, matching your real contribution graph exactly — set up the [`yoshi389111/github-profile-3d-contrib`](https://github.com/yoshi389111/github-profile-3d-contrib) GitHub Action in your `Khushika/Khushika` repo. It commits a fresh 3D SVG daily. Once set up, embed it as:
+
+```md
+![3D Contribution Calendar](https://raw.githubusercontent.com/Khushika/Khushika/output/github-profile-3d-contrib/profile-night-rainbow.svg)
+```
+*(exact output filename depends on the action's config — check its README once you've run it)*
+
+<br/>
+
 ## 🏆 Trophy Case
 
 <div align="center">
