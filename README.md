@@ -5,12 +5,14 @@
 </div>
 
 <div align="center">
-  <img src="assets/buttons/curious-mind.svg" height="45">
-  <img src="assets/buttons/product-thinker.svg" height="45">
-  <img src="assets/buttons/problem-solver.svg" height="45">
-  <img src="assets/buttons/data-lover.svg" height="45">
-  <img src="assets/buttons/story-teller.svg" height="45">
-  <img src="assets/buttons/lifelong-learner.svg" height="45">
+
+<img src="https://img.shields.io/badge/💡_Curious_Mind-BE9FE1?style=for-the-badge&logoColor=white&labelColor=BE9FE1&color=A47FD4" alt="Curious Mind">
+<img src="https://img.shields.io/badge/📦_Product_Thinker-8EB8E5?style=for-the-badge&logoColor=white&labelColor=8EB8E5&color=6F9DD3" alt="Product Thinker">
+<img src="https://img.shields.io/badge/🧩_Problem_Solver-F2A66F?style=for-the-badge&logoColor=white&labelColor=F2A66F&color=DD8751" alt="Problem Solver">
+<img src="https://img.shields.io/badge/📊_Data_Lover-79D4C5?style=for-the-badge&logoColor=white&labelColor=79D4C5&color=56B9A8" alt="Data Lover">
+<img src="https://img.shields.io/badge/✏️_Story_Teller-F6A5C8?style=for-the-badge&logoColor=white&labelColor=F6A5C8&color=E67AA9" alt="Story Teller">
+<img src="https://img.shields.io/badge/🌱_Lifelong_Learner-9EDC8A?style=for-the-badge&logoColor=white&labelColor=9EDC8A&color=78C367" alt="Lifelong Learner">
+
 </div>
 
 <div align="center">
