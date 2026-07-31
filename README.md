@@ -234,14 +234,9 @@ provide a better template to make it match clayotion theme
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Khushika&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Khushika&theme=radical&hide_border=true"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khushika&theme=redical&hide_border=true&area=true" width="98%"/>
-
-</div>
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Khushika&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Khushika&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Khushika&layout=compact&theme=radical)
 
 <div align="center">
 
