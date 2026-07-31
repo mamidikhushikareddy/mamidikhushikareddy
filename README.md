@@ -68,7 +68,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 - 💡 Conversations that end with more questions than answers.
 - 📚 Reading good books and having great conversations.
 
-<img src="assets/eating-girl.png" width="140"/>
 
 </td>
 <td valign="top" width="50%">
@@ -79,8 +78,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 - ⏳ Hustle culture: hurried decisions, buried products.
 - 🎭 Performing to impress. I'd rather disappear into a flow state.
 - 🚫 "Because we've always done it this way."
-
-<img src="assets/nah-girl.png" width="140"/>
 
 </td>
 </tr>
