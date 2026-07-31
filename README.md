@@ -248,8 +248,5 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <div align="center">
 
 Thanks for stopping by! Hope something here made you curious ✨
-Made with 💜, ☕, and a little bit of chaos.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+Made with 💜 and a little bit of chaos.
 </div>
