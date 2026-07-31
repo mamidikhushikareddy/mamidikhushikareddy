@@ -62,43 +62,56 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <td width="48%">
 
-### 🌼 Things That Spark Joy
+<img src="https://img.shields.io/badge/💛_Things_I_Love-FFD166?style=for-the-badge&labelColor=F6C453&color=F6C453">
 
-🧩 Solving messy problems
+<br><br>
 
-☕ Long thinking sessions
+🥟 Pani puri, pasta, pizza... but never plain puri.
 
-📖 Books that change perspectives
+<br>
 
-🎬 Mind-bending movies
+🎬 Movies that make me question reality for at least three business days.
 
-🥟 Pani puri > everything
+<br>
 
-🌱 Learning something new every day
+🙃 Doing Nothing only until ideas spark.
+
+<br>
+
+💡 Conversations that end with more questions than answers.
+
+<br>
+
+📚 Reading good books and having great conversations.
 
 </td>
 
+<td width="4%"></td>
+
 <td width="48%">
 
-### 🌧️ Things I Quietly Avoid
+<img src="https://img.shields.io/badge/🚫_Things_I_Avoid-A8D5BA?style=for-the-badge&labelColor=88C9A1&color=88C9A1">
 
-🍅 Tomatoes
+<br><br>
 
-🚫 Copying trends
+🍅 Tomatoes. No appeals.
 
-⚡ Rushed decisions
+<br>
 
-🎭 Pretending to know everything
+⏳ Hustle culture: hurried decisions, buried products.
 
-📢 Meetings that could've been a message
+<br>
 
-📦 "That's how it's always been."
+🎭 Performing to impress. I'd rather disappear into a flow state.
+
+<br>
+
+🚫 "Because we've always done it this way."
 
 </td>
 
 </tr>
 </table>
-
 
 
 
