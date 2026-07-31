@@ -91,7 +91,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <div align="center">
 
-## ✨ A Random Dose of Inspiration
+## ✨ A Dose of Inspiration
 
 <table>
 <tr>
@@ -101,14 +101,10 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <!-- QUOTE:START -->
 <div align="center">
 
-> *"The flower that blooms in adversity is the most rare and beautiful of all."*
->
-> — **Mulan**  ·  🎬 Animated Movie
+![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=churchill&font=Architect&quoteType=random)
 
 </div>
 <!-- QUOTE:END -->
-
-*One new quote from an anime, a book, or an animated movie — rotated automatically every day* 🔄
 
 </td>
 <td align="center" width="20%"><img src="assets/headphones-girl.png" width="100%"/></td>
