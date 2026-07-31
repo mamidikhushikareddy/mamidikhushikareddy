@@ -95,7 +95,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <div align="center">
 
-## ✨ A Dose of Inspiration
+## ✨ Did you know
 
 <table>
 <tr>
