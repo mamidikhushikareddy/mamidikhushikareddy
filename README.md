@@ -1,16 +1,8 @@
 
 <div align="center">
-<video
-  autoplay
-  loop
-  muted
-  playsinline
-  preload="auto"
-  style="width: 100%; height: auto; display: block; border: none; outline: none; margin: 0; padding: 0;"
->
-  <source src="https://github.com/user-attachments/assets/c9a7e6fa-2709-467f-9e1f-67ae380f57c0" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+  <p align="center">
+  <img src="https://github.com/user-attachments/assets/your-gif-id" width="100%" alt="Claymation animation">
+</p>
 </div>
 
 <div align="center">
