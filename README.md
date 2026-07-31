@@ -284,37 +284,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="12%"><img src="assets/book-girl.png" width="100%"/></td>
-<td width="20%">
-
-**📖 Currently Reading**
-Atomic Habits — James Clear
-`▓▓▓▓▓▓▓░░░` 75%
-
-</td>
-<td width="20%">
-
-**☕ Today's Fuel**
-Coffee + Ideas > Everything
-
-</td>
-<td width="20%">
-
-**🎧 Current Vibe**
-Lofi hip hop beats to focus/study to
-
-</td>
-<td width="20%">
-
-**🌱 Tiny Reminder**
-Progress over perfection. Always.
-
-</td>
-<td align="center" width="8%"><img src="assets/thumbsup-girl.png" width="100%"/></td>
-</tr>
-</table>
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3c95304d-84a8-401a-8301-e8a799825bac" />
 
 <br/>
 
