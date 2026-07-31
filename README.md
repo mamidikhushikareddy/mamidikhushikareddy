@@ -59,59 +59,33 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <table>
 <tr>
+<td valign="top" width="50%">
 
-<td width="48%">
+### Things I Love 💛
 
-<img src="https://img.shields.io/badge/💛_Things_I_Love-FFD166?style=for-the-badge&labelColor=F6C453&color=F6C453">
+- 🥟 Pani puri, pasta, pizza... but never plain puri.
+- 🎬 Movies that make me question reality for at least three business days.
+- 🙃 Doing Nothing only until ideas spark.
+- 💡 Conversations that end with more questions than answers.
+- 📚 Reading good books and having great conversations.
 
-<br><br>
-
-🥟 Pani puri, pasta, pizza... but never plain puri.
-
-<br>
-
-🎬 Movies that make me question reality for at least three business days.
-
-<br>
-
-🙃 Doing Nothing only until ideas spark.
-
-<br>
-
-💡 Conversations that end with more questions than answers.
-
-<br>
-
-📚 Reading good books and having great conversations.
 
 </td>
+<td valign="top" width="50%">
 
-<td width="4%"></td>
+### Things I Avoid 🚫
 
-<td width="48%">
+- 🍅 Tomatoes. No appeals.
+- ⏳ Hustle culture: hurried decisions, buried products.
+- 🎭 Performing to impress. I'd rather disappear into a flow state.
+- 🚫 "Because we've always done it this way."
 
-<img src="https://img.shields.io/badge/🚫_Things_I_Avoid-A8D5BA?style=for-the-badge&labelColor=88C9A1&color=88C9A1">
-
-<br><br>
-
-🍅 Tomatoes. No appeals.
-
-<br>
-
-⏳ Hustle culture: hurried decisions, buried products.
-
-<br>
-
-🎭 Performing to impress. I'd rather disappear into a flow state.
-
-<br>
-
-🚫 "Because we've always done it this way."
 
 </td>
-
 </tr>
 </table>
+
+provide a better template to make it match clayotion theme
 
 
 
