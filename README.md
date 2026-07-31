@@ -56,11 +56,9 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
-<div align="left">
-  <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="80" alt="Cute puppy">
-</div>
-<div align="right">
-  <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="80" alt="Cute puppy">
+<div >
+  <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="100" align="left"alt="Cute puppy">
+  <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="Cute puppy">
 </div>
 
 <br>
