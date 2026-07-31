@@ -49,7 +49,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 </td>
 <td align="center" valign="middle" width="45%">
 
-<img src="https://github.com/user-attachments/assets/66df1d9f-0d78-4791-bbdf-bb6dcc4c899d" width="100%" />
+<img height="1402" alt="image" src="https://github.com/user-attachments/assets/c0e6b4d7-1510-474e-a9df-63a1eca179e7" width="100%"/>
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <table>
 <tr>
-<img height="1402" alt="image" src="https://github.com/user-attachments/assets/c0e6b4d7-1510-474e-a9df-63a1eca179e7" width="100%"/></td>
+<img height="402" alt="image" src="https://github.com/user-attachments/assets/c0e6b4d7-1510-474e-a9df-63a1eca179e7" width="100%"/></td>
 <td align="center" width="60%">
 
 <!-- QUOTE:START -->
