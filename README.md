@@ -58,7 +58,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <div >
   <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="100" align="left"alt="Cute puppy">
-  <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="Cute puppy">
+  <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="ice cream">
 </div>
 
 <br>
@@ -250,9 +250,9 @@ provide a better template to make it match clayotion theme
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Khushika&theme=radical&no-frame=true&margin-w=8&row=1&column=7)
-
-*Collecting digital confetti* 🎉
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mamidikhushikareddyE&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" />
+</p>
 
 </div>
 
