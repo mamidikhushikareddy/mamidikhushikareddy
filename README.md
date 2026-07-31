@@ -237,8 +237,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <div align="center">
 
-**Keep showing up. Consistency is magic.** ✨
-
 </div>
 
 <br/>
