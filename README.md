@@ -107,7 +107,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <!-- QUOTE:END -->
 
 </td>
-<td align="center" width="20%"><img src="assets/headphones-girl.png" width="100%"/></td>
 </tr>
 </table>
 
