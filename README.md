@@ -1,8 +1,6 @@
 
 <div align="center">
-
-https://github.com/user-attachments/assets/7bea73a9-d7a3-44ed-9ad4-9e5f93a1475f
-
+https://github.com/user-attachments/assets/c9a7e6fa-2709-467f-9e1f-67ae380f57c0
 </div>
 
 <div align="center">
