@@ -1,16 +1,6 @@
 
 <div align="center">
-<video
-  autoplay
-  loop
-  muted
-  playsinline
-  preload="auto"
-  style="width: 100%; height: auto; display: block; border: none; outline: none; margin: 0; padding: 0;"
->
-  <source src="https://github.com/user-attachments/assets/a2f541f4-15a5-47dd-b1ed-ebf9001497cc" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/74e7f2b5-64f6-4b25-809f-6ac6456e6a54
 </div>
 
 <div align="center">
