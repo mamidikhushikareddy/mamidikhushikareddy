@@ -49,7 +49,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 </td>
 <td align="center" valign="middle" width="45%">
 
-<img src="https://github.com/user-attachments/assets/324949ae-2e71-4003-bf7c-52a86f2fdfff" width="100%" />
+<img src="https://github.com/user-attachments/assets/66df1d9f-0d78-4791-bbdf-bb6dcc4c899d" width="100%" />
 
 </td>
 </tr>
