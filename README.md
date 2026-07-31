@@ -57,58 +57,45 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <br/>
 
 
-
-
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-## 🧸 My Clay Shelf
+# 🪴 On My Desk
 
-🫧 **Favorite Fuel**
-> 🥟 Pani puri • 🍝 Pasta • 🍕 Pizza
->
-> _(Plain puri didn't make the cut.)_
+💡 Half-finished ideas
 
-🎬 **Movie Taste**
-> Mind-bending stories that linger long after the credits.
+📚 Books with folded corners
 
-💡 **Happy Place**
-> Quiet thinking, sketching ideas, asking "What if?"
+☕ Coffee that gets cold
 
-📚 **Weekend Mode**
-> Good books, meaningful conversations, endless curiosity.
+🎬 Mind-bending films
 
-🌱 **Currently Growing**
-> Product thinking • Design intuition • AI exploration
+🥟 Pani puri cravings
+
+✨ Tiny moments of curiosity
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚧 Left Outside the Studio
+# 🗑️ In The Bin
 
-🍅 **Tomatoes**
-> Some opinions never change.
+🍅 Tomatoes
 
-⏰ **Constant Hustle**
-> Great products deserve thoughtful decisions.
+⏰ Hurry for the sake of hurry
 
-🎭 **Pretending**
-> Authentic curiosity beats looking impressive.
+🎭 Pretending to have all the answers
 
-📦 **"We've Always Done It This Way"**
-> Curiosity > Comfort.
+📦 "Because we've always done it this way"
 
-🔕 **Noise**
-> I prefer deep work over endless notifications.
+📢 Unnecessary meetings
 
 </td>
 
 </tr>
 </table>
-
 
 
 
