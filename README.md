@@ -1,7 +1,6 @@
 <div align="center">
 
-<img width="800" height="336" alt="image" src="https://github.com/user-attachments/assets/848c3538-07b6-49df-85ae-f7d675a4b4a5" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5868769-4a18-4e2b-a6b5-cbbc4481e681" />
 
 </div>
 
@@ -36,8 +35,8 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <tr>
 <td valign="top" width="55%">
 
-### I promise there's a method to the madness.
-#### Consider this my digital playground. It's a work in progress. Aren't we all?
+## I promise there's a method to the madness.
+### Consider this my digital playground. It's a work in progress. Aren't we all?
 
 - 🧠 Learning to think like a product leader while conducting highly unapproved experiments on my own ideas — beautifully chaotic when exploring, meticulously intentional when deciding. I believe urgency should accelerate learning, not replace thinking.
 - 📈 Exploring the intersection of products, people, business, data, and technology.
