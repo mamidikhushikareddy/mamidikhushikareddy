@@ -94,9 +94,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <br/>
 
 <div align="center">
-
-## ✨ Did you know
-
 <table>
 <tr>
 </td>
