@@ -1,8 +1,13 @@
 
 <div align="center">
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/your-gif-id" width="100%" alt="Claymation animation">
+
+<p align="center">
+  <img
+    src="assets/claymotion_github_optimized.gif"
+    width="100%"
+    alt="Claymation animation">
 </p>
+
 </div>
 
 <div align="center">
