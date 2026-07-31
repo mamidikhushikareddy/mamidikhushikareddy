@@ -55,8 +55,8 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 </table>
 
 <br/>
-
-
+https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif
+<br>
 <table>
 <tr>
 <td valign="top" width="50%">
