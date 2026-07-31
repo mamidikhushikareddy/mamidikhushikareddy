@@ -59,9 +59,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <div align="center">
   <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="80" alt="Cute puppy">
 </div>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/<username>/<repo>/output/puppy.svg" width="100%" alt="Running clay puppy">
-</p>
 
 <br>
 <table>
