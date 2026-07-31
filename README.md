@@ -284,7 +284,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
-<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/3c95304d-84a8-401a-8301-e8a799825bac" />
+<img  alt="image" src="https://github.com/user-attachments/assets/3c95304d-84a8-401a-8301-e8a799825bac" />
 
 <br/>
 
