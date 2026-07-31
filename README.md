@@ -1,12 +1,7 @@
 
 <div align="center">
 
-<p align="center">
-  <img
-    src="assets/claymotion_github_optimized.gif"
-    width="100%"
-    alt="Claymation animation">
-</p>
+https://github.com/user-attachments/assets/7bea73a9-d7a3-44ed-9ad4-9e5f93a1475f
 
 </div>
 
