@@ -56,32 +56,62 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
+
+
+
 <table>
 <tr>
-<td valign="top" width="50%">
 
-### Things I Love 💛
+<td width="50%" valign="top">
 
-- 🥟 Pani puri, pasta, pizza... but never plain puri.
-- 🎬 Movies that make me question reality for at least three business days.
-- 🙃 Doing Nothing only until ideas spark.
-- 💡 Conversations that end with more questions than answers.
-- 📚 Reading good books and having great conversations.
+## 🧸 My Clay Shelf
 
+🫧 **Favorite Fuel**
+> 🥟 Pani puri • 🍝 Pasta • 🍕 Pizza
+>
+> _(Plain puri didn't make the cut.)_
+
+🎬 **Movie Taste**
+> Mind-bending stories that linger long after the credits.
+
+💡 **Happy Place**
+> Quiet thinking, sketching ideas, asking "What if?"
+
+📚 **Weekend Mode**
+> Good books, meaningful conversations, endless curiosity.
+
+🌱 **Currently Growing**
+> Product thinking • Design intuition • AI exploration
 
 </td>
-<td valign="top" width="50%">
 
-### Things I Avoid 🚫
+<td width="50%" valign="top">
 
-- 🍅 Tomatoes. No appeals.
-- ⏳ Hustle culture: hurried decisions, buried products.
-- 🎭 Performing to impress. I'd rather disappear into a flow state.
-- 🚫 "Because we've always done it this way."
+## 🚧 Left Outside the Studio
+
+🍅 **Tomatoes**
+> Some opinions never change.
+
+⏰ **Constant Hustle**
+> Great products deserve thoughtful decisions.
+
+🎭 **Pretending**
+> Authentic curiosity beats looking impressive.
+
+📦 **"We've Always Done It This Way"**
+> Curiosity > Comfort.
+
+🔕 **Noise**
+> I prefer deep work over endless notifications.
 
 </td>
+
 </tr>
 </table>
+
+
+
+
 
 <br/>
 
