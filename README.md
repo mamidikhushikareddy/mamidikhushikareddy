@@ -55,13 +55,15 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 </table>
 
 <br/>
-https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif
+
+<div align="center">
+  <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="80" alt="Cute puppy">
+</div>
+
 <br>
 <table>
 <tr>
 <td valign="top" width="50%">
-
-<img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" />
 
 ### Things I Love 💛
 
