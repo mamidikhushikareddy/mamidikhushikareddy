@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c5868769-4a18-4e2b-a6b5-cbbc4481e681" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7aaafd29-f244-4463-891e-7a53d32462f0" />
 
 </div>
 
@@ -9,7 +9,7 @@
 ![Curious Mind](https://img.shields.io/badge/💡_Curious_Mind-2D1B4E?style=for-the-badge)
 ![Product Thinker](https://img.shields.io/badge/📦_Product_Thinker-3D2A5C?style=for-the-badge)
 ![Problem Solver](https://img.shields.io/badge/🧩_Problem_Solver-4A2F6B?style=for-the-badge)
-![Data Lover](https://img.shields.io/badge/📊_Data_Lover-5C3A7A?style=for-the-badge)
+![Data Driven](https://img.shields.io/badge/📊_Data_Lover-5C3A7A?style=for-the-badge)
 ![Story Teller](https://img.shields.io/badge/✏️_Story_Teller-6E4589?style=for-the-badge)
 ![Lifelong Learner](https://img.shields.io/badge/🌱_Lifelong_Learner-7F5098?style=for-the-badge)
 
