@@ -60,37 +60,39 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%">
 
-# 🪴 On My Desk
+### 🌼 Things That Spark Joy
 
-💡 Half-finished ideas
+🧩 Solving messy problems
 
-📚 Books with folded corners
+☕ Long thinking sessions
 
-☕ Coffee that gets cold
+📖 Books that change perspectives
 
-🎬 Mind-bending films
+🎬 Mind-bending movies
 
-🥟 Pani puri cravings
+🥟 Pani puri > everything
 
-✨ Tiny moments of curiosity
+🌱 Learning something new every day
 
 </td>
 
-<td width="50%" valign="top">
+<td width="48%">
 
-# 🗑️ In The Bin
+### 🌧️ Things I Quietly Avoid
 
 🍅 Tomatoes
 
-⏰ Hurry for the sake of hurry
+🚫 Copying trends
 
-🎭 Pretending to have all the answers
+⚡ Rushed decisions
 
-📦 "Because we've always done it this way"
+🎭 Pretending to know everything
 
-📢 Unnecessary meetings
+📢 Meetings that could've been a message
+
+📦 "That's how it's always been."
 
 </td>
 
