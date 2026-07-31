@@ -102,9 +102,17 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <td align="center" width="20%"><img src="assets/reading-girl.png" width="100%"/></td>
 <td align="center" width="60%">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- QUOTE:START -->
+<div align="center">
 
-*Quotes change every time you refresh* 🔄
+> *"The flower that blooms in adversity is the most rare and beautiful of all."*
+>
+> — **Mulan**  ·  🎬 Animated Movie
+
+</div>
+<!-- QUOTE:END -->
+
+*One new quote from an anime, a book, or an animated movie — rotated automatically every day* 🔄
 
 </td>
 <td align="center" width="20%"><img src="assets/headphones-girl.png" width="100%"/></td>
@@ -125,10 +133,12 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
 **Frameworks**
 
@@ -138,13 +148,17 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Databases**
+**Databases & Cloud**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **Tools & Others**
 
@@ -154,6 +168,9 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
@@ -171,6 +188,14 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 | Storytelling | 💜💜💜💜💜 |
 | Creativity | 💜💜💜💜🤍 |
 | Learning Agility | 💜💜💜💜💜 |
+| Adaptability | 💜💜💜💜💜 |
+| Critical Thinking | 💜💜💜💜🤍 |
+| Collaboration | 💜💜💜💜💜 |
+| Negotiation | 💜💜💜🤍🤍 |
+| Time Management | 💜💜💜💜🤍 |
+| Conflict Resolution | 💜💜💜🤍🤍 |
+| Mentoring | 💜💜💜💜🤍 |
+| Public Speaking | 💜💜💜🤍🤍 |
 
 *growth mindset always* 🌱
 
@@ -184,15 +209,22 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Productboard](https://img.shields.io/badge/Productboard-6A5ACD?style=flat-square)
+![Aha!](https://img.shields.io/badge/Aha!-EA303B?style=flat-square)
+![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
+![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-0466C8?style=flat-square)
 ![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
 ![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat-square&logo=hotjar&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+![Intercom](https://img.shields.io/badge/Intercom-1F8DED?style=flat-square&logo=intercom&logoColor=white)
 
 *Tools change. Mindset stays.* ✨
 
@@ -230,6 +262,37 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 *Collecting digital confetti* 🎉
 
 </div>
+
+<br/>
+
+## 🦦 Contributions
+
+<table>
+<tr>
+<td align="center" valign="middle" width="32%">
+
+<img src="assets/otter-sleeping.svg" width="100%"/>
+
+*Even the otter naps between builds.* 💤
+
+</td>
+<td valign="top" width="68%">
+
+**Consistency over intensity — small commits, shipped often.**
+
+- 🌱 Contributing to personal builds, experiments, and the occasional open-source fix.
+- 🔁 The grid below is a live snake eating through my last year of contributions — updated daily.
+- 🧩 Not chasing a streak. Just making sure something moves forward, one commit at a time.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushika/Khushika/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushika/Khushika/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Khushika/Khushika/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
