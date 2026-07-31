@@ -6,12 +6,17 @@
 
 <div align="center">
 
-![Curious Mind](https://img.shields.io/badge/💡_Curious_Mind-2D1B4E?style=for-the-badge)
-![Product Thinker](https://img.shields.io/badge/📦_Product_Thinker-3D2A5C?style=for-the-badge)
-![Problem Solver](https://img.shields.io/badge/🧩_Problem_Solver-4A2F6B?style=for-the-badge)
-![Data Driven](https://img.shields.io/badge/📊_Data_Lover-5C3A7A?style=for-the-badge)
-![Story Teller](https://img.shields.io/badge/✏️_Story_Teller-6E4589?style=for-the-badge)
-![Lifelong Learner](https://img.shields.io/badge/🌱_Lifelong_Learner-7F5098?style=for-the-badge)
+![Curious Mind](https://img.shields.io/badge/💡_Curious_Mind-BE9FE1?style=for-the-badge&logoColor=white&labelColor=BE9FE1&color=A47FD4)
+
+![Product Thinker](https://img.shields.io/badge/📦_Product_Thinker-8EB8E5?style=for-the-badge&logoColor=white&labelColor=8EB8E5&color=6F9DD3)
+
+![Problem Solver](https://img.shields.io/badge/🧩_Problem_Solver-F2A66F?style=for-the-badge&logoColor=white&labelColor=F2A66F&color=DD8751)
+
+![Data Lover](https://img.shields.io/badge/📊_Data_Lover-79D4C5?style=for-the-badge&logoColor=white&labelColor=79D4C5&color=56B9A8)
+
+![Story Teller](https://img.shields.io/badge/✏️_Story_Teller-F6A5C8?style=for-the-badge&logoColor=white&labelColor=F6A5C8&color=E67AA9)
+
+![Lifelong Learner](https://img.shields.io/badge/🌱_Lifelong_Learner-9EDC8A?style=for-the-badge&logoColor=white&labelColor=9EDC8A&color=78C367)
 
 </div>
 
