@@ -61,6 +61,8 @@ https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif
 <tr>
 <td valign="top" width="50%">
 
+<img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" />
+
 ### Things I Love 💛
 
 - 🥟 Pani puri, pasta, pizza... but never plain puri.
