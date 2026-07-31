@@ -90,9 +90,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 </tr>
 </table>
 
-provide a better template to make it match clayotion theme
-
-
 
 <br/>
 
