@@ -241,49 +241,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mamidikhushikareddyE&theme=radical&no-frame=true&no-bg=true&margin-w=12&row=2&column=4" />
-</p>
-
-</div>
-
-<br/>
-
-## 🦦 Contributions
-
-<table>
-<tr>
-<td align="center" valign="middle" width="32%">
-
-<img src="assets/otter-sleeping.svg" width="100%"/>
-
-*Even the otter naps between builds.* 💤
-
-</td>
-<td valign="top" width="68%">
-
-**Consistency over intensity — small commits, shipped often.**
-
-- 🌱 Contributing to personal builds, experiments, and the occasional open-source fix.
-- 🔁 The grid below is a live snake eating through my last year of contributions — updated daily.
-- 🧩 Not chasing a streak. Just making sure something moves forward, one commit at a time.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khushika/Khushika/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khushika/Khushika/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Khushika/Khushika/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
 <img width="1536" height="419" alt="ChatGPT Image Jul 31, 2026, 07_42_08 PM" src="https://github.com/user-attachments/assets/20842528-52e5-419b-acbb-b0db3d248528" />
 
 <br/>
