@@ -50,6 +50,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <td align="center" valign="middle" width="45%">
 
 <img src="assets/skyline-girl.png" width="100%"/>
+<img src="https://github.com/user-attachments/assets/324949ae-2e71-4003-bf7c-52a86f2fdfff" width="100%" />
 
 *Small decisions. Big impact.*
 
