@@ -238,7 +238,8 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
-<img width="1536" height="408" alt="ChatGPT Image Jul 31, 2026, 08_15_06 PM" src="https://github.com/user-attachments/assets/04820cfd-6ea3-495c-88b2-71da9e07e7fb" />
+<img width="2172" height="724" alt="image" src="https://github.com/user-attachments/assets/5bb83c89-001f-4a4b-a12b-727e5fbfbac9" />
+
 
 <br/>
 
