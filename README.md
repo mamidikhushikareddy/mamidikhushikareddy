@@ -237,6 +237,5 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <div align="center">
 
-Thanks for stopping by! Hope something here made you curious ✨
-Made with 💜 and a little bit of chaos.
+Thanks for stopping by!✨
 </div>
