@@ -37,7 +37,8 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <table>
 <tr>
 <td valign="top" width="55%">
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/44aeae30-1192-4fca-8db0-5562b84cac2b" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/493cb6b4-65f5-4fc2-b7ec-d1daf7609585" />
+
 </td>
 <td align="center" valign="middle" width="45%">
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/4ac8b975-ce25-4140-87dc-c131cf2b9c8a" />
