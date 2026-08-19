@@ -31,12 +31,12 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <br/>
 
-<table>
-<tr>
-
-<td valign="top" width="55%">
 ## I promise there's a method to the madness.
 ### Consider this my digital playground. It's a work in progress. Aren't we all?
+
+<table>
+<tr>
+<td valign="top" width="55%">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3a73dee-969e-417c-9afe-f0dc6520a834" />
 </td>
 <td align="center" valign="middle" width="45%">
