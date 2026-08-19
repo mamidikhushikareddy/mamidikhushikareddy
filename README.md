@@ -42,7 +42,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 <td align="center" valign="middle" width="45%">
 
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/4ac8b975-ce25-4140-87dc-c131cf2b9c8a" />
-
+ <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="ice cream">
 </td>
 </tr>
 </table>
@@ -51,7 +51,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <div >
   <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="100" align="left"alt="Cute puppy">
-  <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="ice cream">
+ 
 </div>
 
 <br>
