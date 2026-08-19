@@ -33,14 +33,12 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 <table>
 <tr>
-<td valign="top" width="55%">
-
 ## I promise there's a method to the madness.
+### Consider this my digital playground. It's a work in progress. Aren't we all?
+<td valign="top" width="55%">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3a73dee-969e-417c-9afe-f0dc6520a834" />
-
 </td>
 <td align="center" valign="middle" width="45%">
-### Consider this my digital playground. It's a work in progress. Aren't we all?
 <img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/4ac8b975-ce25-4140-87dc-c131cf2b9c8a" />
  <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="ice cream">
 </td>
