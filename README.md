@@ -36,8 +36,7 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 ## I promise there's a method to the madness.
 ### Consider this my digital playground. It's a work in progress. Aren't we all?
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c4de1b3-797f-448d-b89c-f5a761c58c45" />
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a3a73dee-969e-417c-9afe-f0dc6520a834" />
 
 </td>
 <td align="center" valign="middle" width="45%">
