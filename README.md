@@ -36,14 +36,8 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 
 ## I promise there's a method to the madness.
 ### Consider this my digital playground. It's a work in progress. Aren't we all?
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8c4de1b3-797f-448d-b89c-f5a761c58c45" />
 
-- 🧠 Learning to think like a product leader while conducting highly unapproved experiments on my own ideas — beautifully chaotic when exploring, meticulously intentional when deciding. I believe urgency should accelerate learning, not replace thinking.
-- 📈 Exploring the intersection of products, people, business, data, and technology.
-- 🔍 Curious about the tiny decisions that turn good products into unforgettable ones.
-- 🤝 Looking to collaborate on ideas bold enough to fail, curious enough to evolve, compelling enough to keep us awake, and ambitious enough to become breakthroughs.
-- 💬 Always happy to discuss product strategy, AI, analytics, user behavior, product teardowns — or anything that can keep me glued to the conversation.
-- ⚡ I don't aspire to write the most code; I aspire to make the best decisions.
-- 🦁 Fun fact: I somehow have 27 tabs open, 8 windows, 14 ideas in progress, and a surprisingly good sense of where everything is headed.
 
 </td>
 <td align="center" valign="middle" width="45%">
