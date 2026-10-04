@@ -55,36 +55,6 @@ Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·
 </div>
 
 <br>
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### Things I Love 💛
-
-- 🥟 Pani puri, pasta, pizza... but never plain puri.
-- 🎬 Movies that make me question reality for at least three business days.
-- 🙃 Doing Nothing only until ideas spark.
-- 💡 Conversations that end with more questions than answers.
-- 📚 Reading good books and having great conversations.
-
-
-</td>
-<td valign="top" width="50%">
-
-### Things I Avoid 🚫
-
-- 🍅 Tomatoes. No appeals.
-- ⏳ Hustle culture: hurried decisions, buried products.
-- 🎭 Performing to impress. I'd rather disappear into a flow state.
-- 🚫 "Because we've always done it this way."
-
-
-</td>
-</tr>
-</table>
-
-
-<br/>
 
 <div align="center">
 <table>
