@@ -1,8 +1,6 @@
-
 <div align="center">
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5199e802-5557-4f2b-8c0f-23b4d585bf63" />
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EB8E5,100:BE9FE1&height=140&section=header" width="100%" alt="">
 
@@ -85,27 +83,24 @@ I occasionally share my thoughts and opinions, and more, on my [Substack](https:
 
 <br/>
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Total contributions](https://streak-stats.demolab.com/?user=mamidikhushikareddy&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
+
+</div>
+
+<br/>
+
 <div align="center">
 
 Open to roles in product, analytics, and strategy.
 
 [Email](mailto:mamidikhushikareddy@gmail.com) &nbsp;·&nbsp; [Substack](https://mamidikhushikareddy.substack.com/)
 
-</div>
-
-<div align="center">
+Thanks for stopping by!✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE9FE1,100:8EB8E5&height=120&section=footer" width="100%" alt="">
 
-</div>
-
-## 📊 GitHub Stats
-![Total contributions](https://streak-stats.demolab.com/?user=mamidikhushikareddy&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
-<div align="center">
-
-</div>
-
-<div align="center">
-
-Thanks for stopping by!✨
 </div>
