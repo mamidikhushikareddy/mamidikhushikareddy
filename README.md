@@ -2,209 +2,108 @@
 <div align="center">
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5199e802-5557-4f2b-8c0f-23b4d585bf63" />
 
-</div>
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/💡_Curious_Mind-BE9FE1?style=for-the-badge&logoColor=white&labelColor=BE9FE1&color=A47FD4" alt="Curious Mind">
-<img src="https://img.shields.io/badge/📦_Product_Thinker-8EB8E5?style=for-the-badge&logoColor=white&labelColor=8EB8E5&color=6F9DD3" alt="Product Thinker">
-<img src="https://img.shields.io/badge/🧩_Problem_Solver-F2A66F?style=for-the-badge&logoColor=white&labelColor=F2A66F&color=DD8751" alt="Problem Solver">
-<img src="https://img.shields.io/badge/📊_Data_Lover-79D4C5?style=for-the-badge&logoColor=white&labelColor=79D4C5&color=56B9A8" alt="Data Lover">
-<img src="https://img.shields.io/badge/✏️_Story_Teller-F6A5C8?style=for-the-badge&logoColor=white&labelColor=F6A5C8&color=E67AA9" alt="Story Teller">
-<img src="https://img.shields.io/badge/🌱_Lifelong_Learner-9EDC8A?style=for-the-badge&logoColor=white&labelColor=9EDC8A&color=78C367" alt="Lifelong Learner">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8EB8E5,100:BE9FE1&height=140&section=header" width="100%" alt="">
 
-</div>
+# Hi, I'm Khushika
 
-<div align="center">
-
-**Currently On** 🌊
-
-Building my best version &nbsp;·&nbsp; Learning, shipping & unlearning &nbsp;·&nbsp; Turning ideas into impact
-
-</div>
-
-<div align="center">
-
-`</>` Building in public &nbsp;|&nbsp; 🤝 Open to collaborate &nbsp;|&nbsp; 📚 Always learning &nbsp;|&nbsp; [**Let's Connect →**](mailto:mamidikhushikareddy@gmail.com)
+My world revolves around understanding people, making sense of data, and turning both into better products. So, I bridge data, business, and user needs to turn ambiguity into decisions that teams can act on.
 
 </div>
 
 <br/>
 
-## I promise there's a method to the madness.
-### Consider this my digital playground. It's a work in progress. Aren't we all?
-
-<table>
-<tr>
-<td valign="top" width="55%">
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/493cb6b4-65f5-4fc2-b7ec-d1daf7609585" />
-
-</td>
-<td align="center" valign="middle" width="45%">
-<img width="1402" height="1122" alt="image" src="https://github.com/user-attachments/assets/4ac8b975-ce25-4140-87dc-c131cf2b9c8a" />
- <img src="https://media0.giphy.com/media/ZXlBu8ROclca0tvXCL/source.gif" width="100" align="right" alt="ice cream">
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div >
-  <img src="https://media.tenor.com/cf5AZHmbmzMAAAAi/animals.gif" width="100" align="left"alt="Cute puppy">
- 
-</div>
-
-<br>
-
-<div align="center">
-<table>
-<tr>
-</td>
-<td align="center" width="60%">
-
-<!-- QUOTE:START -->
 <div align="center">
 
-![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=radical&animation=default&layout=churchill&font=Architect&quoteType=random)
-
-</div>
-<!-- QUOTE:END -->
-
-</td>
-</tr>
-</table>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUybnNraTFrcDU2OXJpMmlncXliZHV1d3pqZ3MzZHBhenNlYXVoYjg3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SEkGmscHPfrzP7tneI/giphy.gif" width="200" alt="Animated GIF">
 
 </div>
 
 <br/>
 
-## 🧰 Tech Stack
+## About
 
-<table>
-<tr>
-<td valign="top" width="33%">
+I'm an engineer by training and a product person by instinct. I work best between data, business, and users: asking why something is happening, backing the answer with evidence, and shaping it into a decision someone can act on.
 
-**Languages**
+<br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+## Values
 
-**Frameworks**
+- **Start with the user.** Understand the people before defining the solution.
+- **Let evidence lead.** Opinions are a starting point; data is how I check them.
+- **Ask why before how.** A well-framed problem is half the solution.
+- **Alignment is a skill.** Good ideas stall without the right people on board.
+- **Own the outcome.** From the messy first draft to the go-live checklist.
+- **Clarity is kindness.** A clear PRD or a clean dashboard respects everyone's time.
+- **Trust the data before building on it.** Quality and governance come first, not last.
+- **Be honest about trade-offs.** Prioritizing means saying no, and explaining why.
+- **Build with empathy.** Behind every metric is a person with a goal.
+- **Ship, learn, iterate.** Small experiments beat big assumptions.
+- **Lift others up.** Share what I know and mentor along the way.
+- **Keep learning.** Tools change, curiosity doesn't.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+<br/>
 
-**Databases & Cloud**
+## Interests
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+I'm drawn to the space between understanding a problem and deciding what to do about it, and that pull shapes every role I'm exploring. As a Product Analyst or Data Analyst, I get to find the story inside the numbers. As a Business Analyst or Product Owner, I turn real needs into something a team can build. In Product Management, Product Planning, or Strategy, I help decide what is worth building and why. In UX Research, I get closest to the people the work is for.
 
-**Tools & Others**
+I'm just as curious about everything in between, where analytics meets design or strategy meets delivery, because that is where I learn the fastest. Beyond any title, I keep coming back to product discovery, experimentation, applied AI, data quality, and building communities. I'm eager to learn how each of these works day to day, and to bring that curiosity to a team that makes decisions with both evidence and empathy.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<br/>
 
-</td>
-<td valign="top" width="33%">
+## Writing
 
-**Soft Stack** 💜
+I occasionally share my thoughts and opinions, and more, on my [Substack](https://mamidikhushikareddy.substack.com/).
 
-| Skill | |
+<br/>
+
+## Skills and Tools
+
+| | |
 |---|---|
-| Curiosity | 💜💜💜💜💜 |
-| Empathy | 💜💜💜💜💜 |
-| Systems Thinking | 💜💜💜💜🤍 |
-| Decision Making | 💜💜💜💜💜 |
-| Ownership | 💜💜💜💜💜 |
-| Communication | 💜💜💜💜🤍 |
-| Storytelling | 💜💜💜💜💜 |
-| Creativity | 💜💜💜💜🤍 |
-| Learning Agility | 💜💜💜💜💜 |
-| Adaptability | 💜💜💜💜💜 |
-| Critical Thinking | 💜💜💜💜🤍 |
-| Collaboration | 💜💜💜💜💜 |
-| Negotiation | 💜💜💜🤍🤍 |
-| Time Management | 💜💜💜💜🤍 |
-| Conflict Resolution | 💜💜💜🤍🤍 |
-| Mentoring | 💜💜💜💜🤍 |
-| Public Speaking | 💜💜💜🤍🤍 |
-
-*growth mindset always* 🌱
-
-</td>
-<td valign="top" width="33%">
-
-**Product Toolkit** 🧭
-
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Productboard](https://img.shields.io/badge/Productboard-6A5ACD?style=flat-square)
-![Aha!](https://img.shields.io/badge/Aha!-EA303B?style=flat-square)
-![Miro](https://img.shields.io/badge/Miro-050038?style=flat-square&logo=miro&logoColor=white)
-![Mixpanel](https://img.shields.io/badge/Mixpanel-7856FF?style=flat-square&logo=mixpanel&logoColor=white)
-![Amplitude](https://img.shields.io/badge/Amplitude-0466C8?style=flat-square)
-![GA4](https://img.shields.io/badge/GA4-E37400?style=flat-square&logo=google-analytics&logoColor=white)
-![Hotjar](https://img.shields.io/badge/Hotjar-FF3C00?style=flat-square&logo=hotjar&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
-![Linear](https://img.shields.io/badge/Linear-5E6AD2?style=flat-square&logo=linear&logoColor=white)
-![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat-square&logo=airtable&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Intercom](https://img.shields.io/badge/Intercom-1F8DED?style=flat-square&logo=intercom&logoColor=white)
-
-*Tools change. Mindset stays.* ✨
-
-</td>
-</tr>
-</table>
+| **Languages** | ![Python](https://img.shields.io/badge/Python-24292F?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-24292F?style=flat-square&logo=postgresql&logoColor=white) ![R](https://img.shields.io/badge/R-24292F?style=flat-square&logo=r&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-24292F?style=flat-square&logo=javascript&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-24292F?style=flat-square&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/Java-24292F?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-24292F?style=flat-square&logo=cplusplus&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-24292F?style=flat-square&logo=ruby&logoColor=white) ![HTML & CSS](https://img.shields.io/badge/HTML_%26_CSS-24292F?style=flat-square&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/C-24292F?style=flat-square&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-24292F?style=flat-square&logo=php&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-24292F?style=flat-square&logo=gnubash&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-24292F?style=flat-square) |
+| **Data & BI** | ![Power BI](https://img.shields.io/badge/Power_BI-24292F?style=flat-square&logo=powerbi&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-24292F?style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-24292F?style=flat-square&logo=tableau&logoColor=white) ![Looker Studio](https://img.shields.io/badge/Looker_Studio-24292F?style=flat-square&logo=looker&logoColor=white) ![Metabase](https://img.shields.io/badge/Metabase-24292F?style=flat-square&logo=metabase&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-24292F?style=flat-square&logo=microsoftexcel&logoColor=white) ![Pivot Tables](https://img.shields.io/badge/Pivot_Tables-24292F?style=flat-square) ![PySpark](https://img.shields.io/badge/PySpark-24292F?style=flat-square&logo=apachespark&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-24292F?style=flat-square&logo=googlebigquery&logoColor=white) ![ETL](https://img.shields.io/badge/ETL-24292F?style=flat-square) ![Data Modeling](https://img.shields.io/badge/Data_Modeling-24292F?style=flat-square) ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-24292F?style=flat-square) ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-24292F?style=flat-square) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-24292F?style=flat-square) ![Dashboard Design](https://img.shields.io/badge/Dashboard_Design-24292F?style=flat-square) ![Google Sheets](https://img.shields.io/badge/Google_Sheets-24292F?style=flat-square&logo=googlesheets&logoColor=white) ![Qlik](https://img.shields.io/badge/Qlik-24292F?style=flat-square&logo=qlik&logoColor=white) ![Alteryx](https://img.shields.io/badge/Alteryx-24292F?style=flat-square) ![DAX Studio](https://img.shields.io/badge/DAX_Studio-24292F?style=flat-square) ![Power Query](https://img.shields.io/badge/Power_Query-24292F?style=flat-square) ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-24292F?style=flat-square) |
+| **Analysis & Statistics** | ![Exploratory Analysis](https://img.shields.io/badge/Exploratory_Analysis-24292F?style=flat-square) ![Statistics](https://img.shields.io/badge/Statistics-24292F?style=flat-square) ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-24292F?style=flat-square) ![Cohort Analysis](https://img.shields.io/badge/Cohort_Analysis-24292F?style=flat-square) ![Segmentation](https://img.shields.io/badge/Segmentation-24292F?style=flat-square) ![Forecasting](https://img.shields.io/badge/Forecasting-24292F?style=flat-square) ![Data Quality](https://img.shields.io/badge/Data_Quality-24292F?style=flat-square) ![Data Governance](https://img.shields.io/badge/Data_Governance-24292F?style=flat-square) ![Seaborn](https://img.shields.io/badge/Seaborn-24292F?style=flat-square) ![Regression](https://img.shields.io/badge/Regression-24292F?style=flat-square) ![Time Series](https://img.shields.io/badge/Time_Series-24292F?style=flat-square) ![Clustering](https://img.shields.io/badge/Clustering-24292F?style=flat-square) ![Classification](https://img.shields.io/badge/Classification-24292F?style=flat-square) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-24292F?style=flat-square) ![A/B Test Design](https://img.shields.io/badge/A%2FB_Test_Design-24292F?style=flat-square) ![Sampling](https://img.shields.io/badge/Sampling-24292F?style=flat-square) ![Anomaly Detection](https://img.shields.io/badge/Anomaly_Detection-24292F?style=flat-square) |
+| **Python & ML Libraries** | ![Pandas](https://img.shields.io/badge/Pandas-24292F?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-24292F?style=flat-square&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-24292F?style=flat-square&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-24292F?style=flat-square&logo=scikitlearn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-24292F?style=flat-square&logo=matplotlib&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-24292F?style=flat-square&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-24292F?style=flat-square&logo=keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292F?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-24292F?style=flat-square&logo=pytorch&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-24292F?style=flat-square&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google_Colab-24292F?style=flat-square&logo=googlecolab&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-24292F?style=flat-square&logo=gradio&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-24292F?style=flat-square&logo=streamlit&logoColor=white) |
+| **AI Agents & LLM Frameworks** | ![LangChain](https://img.shields.io/badge/LangChain-24292F?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-24292F?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-24292F?style=flat-square) ![AutoGen](https://img.shields.io/badge/AutoGen-24292F?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-24292F?style=flat-square) ![FAISS](https://img.shields.io/badge/FAISS-24292F?style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-24292F?style=flat-square&logo=supabase&logoColor=white) ![Google AI Studio](https://img.shields.io/badge/Google_AI_Studio-24292F?style=flat-square&logo=google&logoColor=white) ![Voiceflow](https://img.shields.io/badge/Voiceflow-24292F?style=flat-square) ![Botpress](https://img.shields.io/badge/Botpress-24292F?style=flat-square) |
+| **AI Concepts & Platforms** | ![Hugging Face](https://img.shields.io/badge/Hugging_Face-24292F?style=flat-square&logo=huggingface&logoColor=white) ![LLMs](https://img.shields.io/badge/LLMs-24292F?style=flat-square) ![NLP](https://img.shields.io/badge/NLP-24292F?style=flat-square) ![RAG](https://img.shields.io/badge/RAG-24292F?style=flat-square) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-24292F?style=flat-square) ![Text Classification](https://img.shields.io/badge/Text_Classification-24292F?style=flat-square) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-24292F?style=flat-square&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-24292F?style=flat-square&logo=googlegemini&logoColor=white) ![Claude API](https://img.shields.io/badge/Claude_API-24292F?style=flat-square&logo=anthropic&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-24292F?style=flat-square&logo=ollama&logoColor=white) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-24292F?style=flat-square) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-24292F?style=flat-square) ![Embeddings](https://img.shields.io/badge/Embeddings-24292F?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-24292F?style=flat-square) ![spaCy](https://img.shields.io/badge/spaCy-24292F?style=flat-square&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/NLTK-24292F?style=flat-square) ![Transformers](https://img.shields.io/badge/Transformers-24292F?style=flat-square) ![Agents & Tool Use](https://img.shields.io/badge/Agents_%26_Tool_Use-24292F?style=flat-square) ![Evaluation & Guardrails](https://img.shields.io/badge/Evaluation_%26_Guardrails-24292F?style=flat-square) |
+| **AI-Assisted Building** | ![Cursor](https://img.shields.io/badge/Cursor-24292F?style=flat-square) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-24292F?style=flat-square&logo=openai&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-24292F?style=flat-square&logo=replit&logoColor=white) ![Trae](https://img.shields.io/badge/Trae-24292F?style=flat-square) ![Augment Code](https://img.shields.io/badge/Augment_Code-24292F?style=flat-square) ![v0](https://img.shields.io/badge/v0-24292F?style=flat-square&logo=v0&logoColor=white) ![Lovable](https://img.shields.io/badge/Lovable-24292F?style=flat-square) ![Builder.io](https://img.shields.io/badge/Builder.io-24292F?style=flat-square) |
+| **Automation** | ![n8n](https://img.shields.io/badge/n8n-24292F?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-24292F?style=flat-square&logo=make&logoColor=white) ![Power Automate](https://img.shields.io/badge/Power_Automate-24292F?style=flat-square&logo=powerautomate&logoColor=white) |
+| **Design & Prototyping** | ![Figma](https://img.shields.io/badge/Figma-24292F?style=flat-square&logo=figma&logoColor=white) ![FigJam](https://img.shields.io/badge/FigJam-24292F?style=flat-square&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-24292F?style=flat-square&logo=framer&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-24292F?style=flat-square&logo=canva&logoColor=white) ![Excalidraw](https://img.shields.io/badge/Excalidraw-24292F?style=flat-square&logo=excalidraw&logoColor=white) ![Miro](https://img.shields.io/badge/Miro-24292F?style=flat-square&logo=miro&logoColor=white) ![Napkin AI](https://img.shields.io/badge/Napkin_AI-24292F?style=flat-square) ![Gamma](https://img.shields.io/badge/Gamma-24292F?style=flat-square) |
+| **Product Analytics & Research** | ![Mixpanel](https://img.shields.io/badge/Mixpanel-24292F?style=flat-square&logo=mixpanel&logoColor=white) ![Amplitude](https://img.shields.io/badge/Amplitude-24292F?style=flat-square) ![Similarweb](https://img.shields.io/badge/Similarweb-24292F?style=flat-square) ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-24292F?style=flat-square) ![Funnel Analysis](https://img.shields.io/badge/Funnel_Analysis-24292F?style=flat-square) ![Event Tracking](https://img.shields.io/badge/Event_Tracking-24292F?style=flat-square) ![Retention Analysis](https://img.shields.io/badge/Retention_Analysis-24292F?style=flat-square) ![Usability Testing](https://img.shields.io/badge/Usability_Testing-24292F?style=flat-square) ![User Interviews](https://img.shields.io/badge/User_Interviews-24292F?style=flat-square) ![Surveys](https://img.shields.io/badge/Surveys-24292F?style=flat-square) ![Personas](https://img.shields.io/badge/Personas-24292F?style=flat-square) ![Journey Mapping](https://img.shields.io/badge/Journey_Mapping-24292F?style=flat-square) ![Heuristic Evaluation](https://img.shields.io/badge/Heuristic_Evaluation-24292F?style=flat-square) ![Competitive Analysis](https://img.shields.io/badge/Competitive_Analysis-24292F?style=flat-square) ![Pendo](https://img.shields.io/badge/Pendo-24292F?style=flat-square) ![Heap](https://img.shields.io/badge/Heap-24292F?style=flat-square) ![FullStory](https://img.shields.io/badge/FullStory-24292F?style=flat-square) ![Segment](https://img.shields.io/badge/Segment-24292F?style=flat-square&logo=segment&logoColor=white) ![Optimizely](https://img.shields.io/badge/Optimizely-24292F?style=flat-square&logo=optimizely&logoColor=white) ![UserTesting](https://img.shields.io/badge/UserTesting-24292F?style=flat-square) ![Maze](https://img.shields.io/badge/Maze-24292F?style=flat-square) ![Card Sorting](https://img.shields.io/badge/Card_Sorting-24292F?style=flat-square) ![Concept Testing](https://img.shields.io/badge/Concept_Testing-24292F?style=flat-square) ![Diary Studies](https://img.shields.io/badge/Diary_Studies-24292F?style=flat-square) ![Jobs-to-be-Done](https://img.shields.io/badge/Jobs--to--be--Done-24292F?style=flat-square) ![NPS & CSAT](https://img.shields.io/badge/NPS_%26_CSAT-24292F?style=flat-square) |
+| **Product & Business Analysis** | ![Requirements Analysis](https://img.shields.io/badge/Requirements_Analysis-24292F?style=flat-square) ![BRD / FRD](https://img.shields.io/badge/BRD_%2F_FRD-24292F?style=flat-square) ![PRDs](https://img.shields.io/badge/PRDs-24292F?style=flat-square) ![User Stories](https://img.shields.io/badge/User_Stories-24292F?style=flat-square) ![Acceptance Criteria](https://img.shields.io/badge/Acceptance_Criteria-24292F?style=flat-square) ![RICE / WSJF](https://img.shields.io/badge/RICE_%2F_WSJF-24292F?style=flat-square) ![MoSCoW](https://img.shields.io/badge/MoSCoW-24292F?style=flat-square) ![Roadmapping](https://img.shields.io/badge/Roadmapping-24292F?style=flat-square) ![KPIs & Metrics](https://img.shields.io/badge/KPIs_%26_Metrics-24292F?style=flat-square) ![OKRs](https://img.shields.io/badge/OKRs-24292F?style=flat-square) ![UAT](https://img.shields.io/badge/UAT-24292F?style=flat-square) ![Gap Analysis](https://img.shields.io/badge/Gap_Analysis-24292F?style=flat-square) ![Root-Cause Analysis](https://img.shields.io/badge/Root--Cause_Analysis-24292F?style=flat-square) ![Process Mapping](https://img.shields.io/badge/Process_Mapping-24292F?style=flat-square) ![Wireframing](https://img.shields.io/badge/Wireframing-24292F?style=flat-square) ![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-24292F?style=flat-square) ![Go-to-Market](https://img.shields.io/badge/Go--to--Market-24292F?style=flat-square) ![Business Case](https://img.shields.io/badge/Business_Case-24292F?style=flat-square) ![Use Cases](https://img.shields.io/badge/Use_Cases-24292F?style=flat-square) ![Traceability Matrix](https://img.shields.io/badge/Traceability_Matrix-24292F?style=flat-square) ![SWOT](https://img.shields.io/badge/SWOT-24292F?style=flat-square) ![Value Proposition](https://img.shields.io/badge/Value_Proposition-24292F?style=flat-square) ![Prioritization Frameworks](https://img.shields.io/badge/Prioritization_Frameworks-24292F?style=flat-square) ![Product Discovery](https://img.shields.io/badge/Product_Discovery-24292F?style=flat-square) ![Release Planning](https://img.shields.io/badge/Release_Planning-24292F?style=flat-square) ![Market Research](https://img.shields.io/badge/Market_Research-24292F?style=flat-square) ![Pricing & Packaging](https://img.shields.io/badge/Pricing_%26_Packaging-24292F?style=flat-square) ![Change Management](https://img.shields.io/badge/Change_Management-24292F?style=flat-square) ![BPMN / UML](https://img.shields.io/badge/BPMN_%2F_UML-24292F?style=flat-square) |
+| **Product Management & Delivery** | ![Jira](https://img.shields.io/badge/Jira-24292F?style=flat-square&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/Confluence-24292F?style=flat-square&logo=confluence&logoColor=white) ![Linear](https://img.shields.io/badge/Linear-24292F?style=flat-square&logo=linear&logoColor=white) ![Zoho Sprints](https://img.shields.io/badge/Zoho_Sprints-24292F?style=flat-square&logo=zoho&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-24292F?style=flat-square&logo=asana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-24292F?style=flat-square&logo=trello&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-24292F?style=flat-square&logo=notion&logoColor=white) ![Airtable](https://img.shields.io/badge/Airtable-24292F?style=flat-square&logo=airtable&logoColor=white) ![Craft.io](https://img.shields.io/badge/Craft.io-24292F?style=flat-square) ![ProdPad](https://img.shields.io/badge/ProdPad-24292F?style=flat-square) ![Airfocus](https://img.shields.io/badge/Airfocus-24292F?style=flat-square) |
+| **Research, Feedback & Communication** | ![Dovetail](https://img.shields.io/badge/Dovetail-24292F?style=flat-square) ![Typeform](https://img.shields.io/badge/Typeform-24292F?style=flat-square&logo=typeform&logoColor=white) ![Google Forms](https://img.shields.io/badge/Google_Forms-24292F?style=flat-square&logo=googleforms&logoColor=white) ![GA4](https://img.shields.io/badge/GA4-24292F?style=flat-square&logo=googleanalytics&logoColor=white) ![Hotjar](https://img.shields.io/badge/Hotjar-24292F?style=flat-square&logo=hotjar&logoColor=white) ![Intercom](https://img.shields.io/badge/Intercom-24292F?style=flat-square&logo=intercom&logoColor=white) ![Mailchimp](https://img.shields.io/badge/Mailchimp-24292F?style=flat-square&logo=mailchimp&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-24292F?style=flat-square&logo=slack&logoColor=white) ![Loom](https://img.shields.io/badge/Loom-24292F?style=flat-square&logo=loom&logoColor=white) ![Calendly](https://img.shields.io/badge/Calendly-24292F?style=flat-square&logo=calendly&logoColor=white) ![Granola](https://img.shields.io/badge/Granola-24292F?style=flat-square) ![NotebookLM](https://img.shields.io/badge/NotebookLM-24292F?style=flat-square) |
+| **Business Systems & Collaboration** | ![Productboard](https://img.shields.io/badge/Productboard-24292F?style=flat-square) ![Aha!](https://img.shields.io/badge/Aha%21-24292F?style=flat-square) ![ClickUp](https://img.shields.io/badge/ClickUp-24292F?style=flat-square&logo=clickup&logoColor=white) ![Agile / Scrum](https://img.shields.io/badge/Agile_%2F_Scrum-24292F?style=flat-square) ![Kanban](https://img.shields.io/badge/Kanban-24292F?style=flat-square) ![Sprint Planning](https://img.shields.io/badge/Sprint_Planning-24292F?style=flat-square) ![Monday.com](https://img.shields.io/badge/Monday.com-24292F?style=flat-square&logo=mondaydotcom&logoColor=white) ![Smartsheet](https://img.shields.io/badge/Smartsheet-24292F?style=flat-square&logo=smartsheet&logoColor=white) ![Lucidchart](https://img.shields.io/badge/Lucidchart-24292F?style=flat-square&logo=lucid&logoColor=white) ![Whimsical](https://img.shields.io/badge/Whimsical-24292F?style=flat-square) ![Microsoft Teams](https://img.shields.io/badge/Microsoft_Teams-24292F?style=flat-square&logo=microsoftteams&logoColor=white) ![Google Workspace](https://img.shields.io/badge/Google_Workspace-24292F?style=flat-square&logo=google&logoColor=white) |
+| **Engineering & Deployment** | ![Django](https://img.shields.io/badge/Django-24292F?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-24292F?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-24292F?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-24292F?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-24292F?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-24292F?style=flat-square&logo=postman&logoColor=white) ![Render](https://img.shields.io/badge/Render-24292F?style=flat-square&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-24292F?style=flat-square&logo=netlify&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-24292F?style=flat-square&logo=vercel&logoColor=white) |
+| **Frameworks, Databases & Platforms** | ![Node.js](https://img.shields.io/badge/Node.js-24292F?style=flat-square&logo=nodedotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-24292F?style=flat-square&logo=tailwindcss&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST_APIs-24292F?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292F?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-24292F?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-24292F?style=flat-square&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-24292F?style=flat-square&logo=firebase&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-24292F?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-24292F?style=flat-square&logo=amazonaws&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-24292F?style=flat-square&logo=linux&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-24292F?style=flat-square&logo=visualstudiocode&logoColor=white) ![Odoo](https://img.shields.io/badge/Odoo-24292F?style=flat-square&logo=odoo&logoColor=white) ![Oracle APEX](https://img.shields.io/badge/Oracle_APEX-24292F?style=flat-square&logo=oracle&logoColor=white) ![npm](https://img.shields.io/badge/npm-24292F?style=flat-square&logo=npm&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-24292F?style=flat-square&logo=heroku&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-24292F?style=flat-square&logo=nginx&logoColor=white) |
+| **Data Engineering & Databases** | ![Snowflake](https://img.shields.io/badge/Snowflake-24292F?style=flat-square&logo=snowflake&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-24292F?style=flat-square&logo=databricks&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-24292F?style=flat-square&logo=dbt&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-24292F?style=flat-square&logo=apacheairflow&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-24292F?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![Oracle DB](https://img.shields.io/badge/Oracle_DB-24292F?style=flat-square&logo=oracle&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-24292F?style=flat-square&logo=sqlite&logoColor=white) |
+| **Cloud, DevOps & Testing** | ![Google Cloud](https://img.shields.io/badge/Google_Cloud-24292F?style=flat-square&logo=googlecloud&logoColor=white) ![CI / CD](https://img.shields.io/badge/CI_%2F_CD-24292F?style=flat-square) ![Pytest](https://img.shields.io/badge/Pytest-24292F?style=flat-square&logo=pytest&logoColor=white) |
+| **Soft Skills** | ![Curiosity](https://img.shields.io/badge/Curiosity-24292F?style=flat-square) ![Empathy](https://img.shields.io/badge/Empathy-24292F?style=flat-square) ![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-24292F?style=flat-square) ![Systems Thinking](https://img.shields.io/badge/Systems_Thinking-24292F?style=flat-square) ![Decision Making](https://img.shields.io/badge/Decision_Making-24292F?style=flat-square) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-24292F?style=flat-square) ![Storytelling](https://img.shields.io/badge/Storytelling-24292F?style=flat-square) ![Communication](https://img.shields.io/badge/Communication-24292F?style=flat-square) ![Presentation](https://img.shields.io/badge/Presentation-24292F?style=flat-square) ![Facilitation](https://img.shields.io/badge/Facilitation-24292F?style=flat-square) ![Collaboration](https://img.shields.io/badge/Collaboration-24292F?style=flat-square) ![Influencing Without Authority](https://img.shields.io/badge/Influencing_Without_Authority-24292F?style=flat-square) ![Negotiation](https://img.shields.io/badge/Negotiation-24292F?style=flat-square) ![Conflict Resolution](https://img.shields.io/badge/Conflict_Resolution-24292F?style=flat-square) ![Mentoring](https://img.shields.io/badge/Mentoring-24292F?style=flat-square) ![Ownership](https://img.shields.io/badge/Ownership-24292F?style=flat-square) ![Time Management](https://img.shields.io/badge/Time_Management-24292F?style=flat-square) ![Prioritization](https://img.shields.io/badge/Prioritization-24292F?style=flat-square) ![Adaptability](https://img.shields.io/badge/Adaptability-24292F?style=flat-square) ![Learning Agility](https://img.shields.io/badge/Learning_Agility-24292F?style=flat-square) ![Attention to Detail](https://img.shields.io/badge/Attention_to_Detail-24292F?style=flat-square) |
 
 <br/>
+
+<div align="center">
+
+Open to roles in product, analytics, and strategy.
+
+[Email](mailto:mamidikhushikareddy@gmail.com) &nbsp;·&nbsp; [Substack](https://mamidikhushikareddy.substack.com/)
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:BE9FE1,100:8EB8E5&height=120&section=footer" width="100%" alt="">
+
+</div>
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Khushika&show_icons=true&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Khushika&theme=radical)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Khushika&layout=compact&theme=radical)
-
+![Total contributions](https://streak-stats.demolab.com/?user=mamidikhushikareddy&theme=default&hide_border=true&hide_current_streak=true&hide_longest_streak=true)
 <div align="center">
 
 </div>
-
-<br/>
-
-<img width="2172" height="724" alt="ChatGPT Image Aug 14, 2026, 12_55_06 AM" src="https://github.com/user-attachments/assets/c7507056-56e8-4bc6-b58e-ea416cc54b32" />
-
-
-<br/>
 
 <div align="center">
 
